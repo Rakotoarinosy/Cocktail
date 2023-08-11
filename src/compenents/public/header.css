@@ -1,0 +1,17 @@
+.Header{
+    border-bottom: solid 1px grey;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    padding: 0px;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
